@@ -1,0 +1,4 @@
+[v3_ext]
+keyUsage=digitalSignature,keyEncipherment
+extendedKeyUsage=serverAuth
+subjectKeyIdentifier=hash
